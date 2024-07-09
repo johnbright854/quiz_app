@@ -45,7 +45,7 @@ class _QuizPageState extends State<QuizPage> {
           Alert(
             context: context,
             type: AlertType.error,
-            title: "The End",
+            title: "The End !!",
             desc: "The quiz is completed.",
             buttons: [
               DialogButton(
